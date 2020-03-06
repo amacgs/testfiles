@@ -1,0 +1,3 @@
+echo "my name is amani"
+echo "Good morning everyone"
+
